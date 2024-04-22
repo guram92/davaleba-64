@@ -1,0 +1,31 @@
+.box1 {
+    width: 350px;
+    height: 160px;
+    margin-top: 15px;
+    margin-left: 3px;
+}
+.box2 {
+    text-align:center ;
+    color: #777777;
+}
+.box3 {
+     width: 1280px;
+     height: 26px;
+     margin-top: 205px;
+}
+.box4 {
+    color: #001AFF;
+    text-align: center;
+    font-weight: 700;
+}
+.box5 {
+    width: 250px;
+    height: 160px;
+    margin-top: 261px;
+    margin-left: 72px;
+}
+.box6 {
+    text-align:justify;
+    color: #FF0000;
+}
+   
